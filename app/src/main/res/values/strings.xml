@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Code</string>
+    <string name="title_activity_starting">StartingActivity</string>
+    <string name="title_activity_generate">GenerateActivity</string>
+</resources>
